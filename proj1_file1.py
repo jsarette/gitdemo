@@ -4,6 +4,7 @@
 # File Name: myName.py 
 #  --------------------------
 
+git hub test #1 - knkown edit pushed to hub
 import sys 
 
 from random import choice, randint
