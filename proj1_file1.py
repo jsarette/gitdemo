@@ -4,7 +4,7 @@
 # File Name: myName.py 
 #  --------------------------
 
-git hub test #1 - knkown edit pushed to hub
+#1 [git hub test ]- remove edit testing git hub change
 import sys 
 
 from random import choice, randint
