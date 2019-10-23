@@ -5,7 +5,9 @@
 #  --------------------------
 
 #1 [git hub test ]- remove edit testing git hub change
-#2 [git hub test ]- local file change verify and push verify testingimport
+#2 [git hub test ]- local file change verify and push verify testing - Using Git GUI
+#2 [git hub test ]- local file change verify   - Using Git BASH 
+hi jim
 
 import sys 
 
